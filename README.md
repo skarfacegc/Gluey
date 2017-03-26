@@ -1,3 +1,8 @@
+Gluey has been renamed [Gue](https://github.com/skarfacegc/Gue)
+==
+
+
+
 Gluey
 ==
 [![Build Status](https://travis-ci.org/skarfacegc/Gluey.svg?branch=master)](https://travis-ci.org/skarfacegc/Gluey)
