@@ -1,6 +1,6 @@
 {
   "name": "gluey",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "[DEPRECATED, renamed to gue] - a lightweight task runner",
   "main": "index.js",
   "scripts": {
