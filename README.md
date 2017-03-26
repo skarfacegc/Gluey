@@ -1,10 +1,10 @@
-Gluey has been renamed [Gue](https://github.com/skarfacegc/Gue)
+Gluey has been renamed to [Gue](https://github.com/skarfacegc/Gue)
 ==
 
 
 
-Gluey
-==
+#### Gluey
+
 [![Build Status](https://travis-ci.org/skarfacegc/Gluey.svg?branch=master)](https://travis-ci.org/skarfacegc/Gluey)
 
 [![NPM](https://nodei.co/npm/gluey.png?downloads=true)](https://nodei.co/npm/gluey/)
